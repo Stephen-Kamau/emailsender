@@ -1,0 +1,19 @@
+MLCS PROGRAM – REQUIREMENTS SUMMARY
+Credit Scoring Engine (Release 3.2)
+Attached to: JIRA Epic MLCS-500
+1. Overview
+This document summarizes functional and technical requirements
+for the Machine Learning Credit Scoring Engine.
+
+2. Key JIRA-Linked Requirements
+- MLCS-501: Add behavioral features from 24-month repayment data.
+- MLCS-509: Generate SHAP-based explainability reports daily;
+  provide human-readable reasons for each score.
+- MLCS-523: Monitor fairness metrics (Gender, Age, Region);
+  deploy bias alerts if thresholds exceeded.
+- MLCS-540: Ensure pipeline uptime >99.9%, retry failed jobs,
+  log all scoring attempts with trace IDs.
+
+3. Notes
+This placeholder attachment simulates a JIRA requirements
+document for internal review and testing purposes.
